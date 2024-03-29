@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Community() {
     return (
-        <section style={{background:"#2ecc71"}}>community page </section>
+        <section style={{background:"#2ecc71"}}>community Page </section>
     )
 }
