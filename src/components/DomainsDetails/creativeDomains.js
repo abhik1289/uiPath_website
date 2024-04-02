@@ -9,9 +9,10 @@ const CreativeDomainDetails = ({ image, name, description, buttonLink }) => {
           <img src={image} alt="" />
         </div>
         <div className="h-1/2 p-5">
-          <div className="text-3xl py-4 font-bold text-start text-slate-200">{name}</div>
-          <div className="text-sm">{description}</div>
+          <div className="text-3xl py-4 font-bold md:text-start text-center text-slate-200">{name}</div>
+          <div className="text-sm text-justify md:text-start">{description}</div>
         </div>
+        
       </div>
 
     );
