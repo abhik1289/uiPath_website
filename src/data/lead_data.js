@@ -29,7 +29,7 @@ const LeadData = [
   },
   {
     index: 2,
-    src: require("../assets/images/leads/deep3.jpg"),
+    src: require("../assets/images/leads/deepshika.png"),
     name: "Deepsikha Das",
     postion: "Associate Coordinator & Social Media Marketing",
     instagram:
@@ -68,7 +68,7 @@ const LeadData = [
   },
   {
     index: 9,
-    src: require("../assets/images/leads/chaman.jpg"),
+    src: require("../assets/images/leads/chaman.png"),
     name: "Chaman Kumar",
     postion: "Graphic Designing",
     instagram: "https://www.instagram.com/87nehal/",
@@ -77,7 +77,7 @@ const LeadData = [
   },
   {
     index: 4,
-    src: require("../assets/images/leads/muktesh.jpg"),
+    src: require("../assets/images/leads/muktesh.png"),
     name: "Muktesh Mishra",
     postion: "Event Management",
     instagram:
@@ -87,7 +87,7 @@ const LeadData = [
   },
   {
     index: 6,
-    src: require("../assets/images/leads/Devangi.jpg"),
+    src: require("../assets/images/leads/devangi.png"),
     name: "Devangi Das",
     postion: "Web Development",
     instagram:
@@ -97,7 +97,7 @@ const LeadData = [
   },
   {
     index: 13,
-    src: require("../assets/images/leads/Mousumi.jpg"),
+    src: require("../assets/images/leads/mousumi.png"),
     name: "Mousumi Dey",
     postion: "Social Media Marketing",
     instagram: "https://www.instagram.com/mousumi.dey10?igsh=eWljZDh4cDR6OTFz",
@@ -106,7 +106,7 @@ const LeadData = [
   },
   {
     index: 13,
-    src: require("../assets/images/leads/saswat.jpg"),
+    src: require("../assets/images/leads/saswat.png"),
     name: "Saswat Jena",
     postion: "Video Editing",
     instagram: "https://www.instagram.com/sj_k_i_n_g?igsh=MXBtcG5ubXB0eGd2eg==",
@@ -116,7 +116,7 @@ const LeadData = [
   },
   {
     index: 1,
-    src: require("../assets/images/leads/hritesh.jpeg"),
+    src: require("../assets/images/leads/hritesh.png"),
     name: "Hritesh Mondal",
     postion: "Web Development",
     instagram:
@@ -157,7 +157,7 @@ const LeadData = [
 
   {
     index: 14,
-    src: require("../assets/images/leads/sushant.jpg"),
+    src: require("../assets/images/leads/sushant.png"),
     name: "Sushant",
     postion: "Video Editing",
     instagram: "https://www.instagram.com/sj_k_i_n_g?igsh=MTdxbmp6M2xoMHdkcg==",
@@ -195,7 +195,7 @@ const LeadData = [
   },
   {
     index: 19,
-    src: require("../assets/images/leads/aditi.jpg"),
+    src: require("../assets/images/leads/aditi.png"),
     name: "Aditi Singh",
     postion: "Student POC",
     instagram: "https://www.instagram.com/sourabhrex?igsh=cXI5ZTZ4c2hmdjly",
@@ -207,6 +207,15 @@ const LeadData = [
     src: require("../assets/images/leads/Sourashish.png"),
     name: "Sourashish Bhaumik",
     postion: "Student POC",
+    // instagram: "https://www.instagram.com/sourabhrex?igsh=cXI5ZTZ4c2hmdjly",
+    // gamil: "mohantysourabh007@gmail.com",
+    // linkedin: "https://www.linkedin.com/in/sourabh-mohanty-44110a208/",
+  },
+  {
+    index: 21,
+    src: require("../assets/images/leads/barsha.png"),
+    name: "Barsha Baibhabi",
+    postion: "UI/UX",
     // instagram: "https://www.instagram.com/sourabhrex?igsh=cXI5ZTZ4c2hmdjly",
     // gamil: "mohantysourabh007@gmail.com",
     // linkedin: "https://www.linkedin.com/in/sourabh-mohanty-44110a208/",
